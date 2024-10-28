@@ -79,6 +79,32 @@ The system includes triggers for business logic enforcement, such as ensuring du
 
 ---
 
+## 📈 Screen-Shots
+
+1. ![ER Diagram](vv/media/image2.png)
+2. ![Login Screen](vv/media/image3.png)
+3. ![Sign Up Screen](vv/media/image4.png)
+4. ![User Profile](vv/media/image5.png)
+5. ![Due Screen](vv/media/image6.png)
+6. ![Edit Profile](vv/media/image7.png)
+7. ![Setup Screen](vv/media/image9.png)
+8. ![Join Classes](vv/media/image10.png)
+9. ![Admin TimeTable](vv/media/image11.png)
+10. ![Daily Assignment](vv/media/image12.png)
+11. ![Create New Plan](vv/media/image13.png)
+12. ![Create New Employee](vv/media/image14.png)
+13. ![Edit Classes](vv/media/image15.png)
+14. ![Customers List](vv/media/image16.png)
+15. ![Employees List](vv/media/image17.png)
+16. ![Classes List](vv/media/image18.png)
+17. ![Customer Screen](vv/media/image19.png)
+18. ![Employee Screen](vv/media/image20.png)
+19. ![Class Screen](vv/media/image21.png)
+
+
+---
+
+
 ## 📈 Future Enhancements
 
 - **Enquiry System**: Enable members to submit inquiries to staff.
